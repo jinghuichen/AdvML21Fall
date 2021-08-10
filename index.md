@@ -15,8 +15,6 @@ This course requires knowledge of machine learning (DS 310 or equivalent), basic
 - Time: **Thursday 2:30PM - 5:30PM**
 - Location: **Westgate Bldg E210**  
 - Instructor: [Jinghui Chen](https://www.personal.psu.edu/jzc5917/) (Email: jzc5917 at psu dot edu)   
-<!-- - Teaching Assistant: 
-    - [Yg](https://sites.google.com) (Email: edu) -->
      
 - Office hours: 
     - The instructor's office hour is Thursday after class. 
