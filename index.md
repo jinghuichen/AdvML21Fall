@@ -89,7 +89,7 @@ Final grade cutoff:
     - Thorough theoretical analysis of existing approaches
 - The best outcome of the project is a manuscript that is publishable in major machine learning/AI/Security conferences (ICML, NeurIPS, ICLR, CVPR, KDD, ACL, CCS, etc.).
 - The final project quality will take 50% of your grade.
-- Students cannot use their own published work as the course project.
+- **Students cannot use their own published work as the course project.**
 
 
 ## Late Submission Policy
