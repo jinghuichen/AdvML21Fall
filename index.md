@@ -20,7 +20,7 @@ This course requires knowledge of machine learning (DS 310 or equivalent), basic
     - The instructor's office hour is Thursday after class. 
      
 - Course Website: [https://jinghuichen.github.io/AdvML21Fall/](https://jinghuichen.github.io/AdvML21Fall/)
-- Canvas: []()
+- Canvas: [https://psu.instructure.com/courses/2150316](https://psu.instructure.com/courses/2150316)
 
 ## Grading Policy
  
