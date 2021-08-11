@@ -57,8 +57,8 @@ Final grade cutoff:
 | 7 | 10/07 | Privacy Attacks for Machine Learning Models & Paper Presentation | |   |
 | 8 | 10/14 | Privacy Defenses for Machine Learning Models & Paper Presentation | |   |
 | 9 | 10/21 | Confidentiality of Machine Learning Models & Paper Presentation | |   |
-| 10 | 10/28 | Graph Adversarial Attacks and Defenses & Paper Presentation | |   |
-| 11 | 11/04 | Project Midterm Presenetation | | Proj Midterm Report Due  |
+| 10 | 10/28 | Project Midterm Presenetation | | Proj Midterm Report Due  |
+| 11 | 11/04 | Graph Adversarial Attacks and Defenses & Paper Presentation | |   |
 | 12 | 11/11 | Physical World Adversarial Machine Learning & Paper Presentation | |   |
 | 13 | 11/18 | Robustness In Distributed Learning/Self-Supervised Learning/Reinforcement Learning & Paper Presentation | |   |
 | 14 | 11/25 | No Class (Thanksgiving Holiday) | |   |
