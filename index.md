@@ -54,13 +54,13 @@ Final grade cutoff:
 | 4 | 09/16 | Proposal Presentation | | Final Proj Proposal Due  |
 | 5 | 09/23 | Poisoning Attacks and Defenses & Paper Presentation | |   |
 | 6 | 09/30 | Backdoor Attacks and Defenses & Paper Presentation | |   |
-| 7 | 10/07 | Privacy Attacks for Machine Learning Models & Paper Presentation | |   |
-| 8 | 10/14 | Privacy Defenses for Machine Learning Models & Paper Presentation | |   |
-| 9 | 10/21 | Confidentiality of Machine Learning Models & Paper Presentation | |   |
+| 7 | 10/07 | Graph/NLP Adversarial Attacks and Defenses & Paper Presentation | |   |
+| 8 | 10/14 | Robustness in Distributed/Self-Supervised/Reinforcement Learning & Paper Presentation | |   |
+| 9 | 10/21 | Physical World Adversarial/Out-of-distribution Adversarial & Paper Presentation | |   |
 | 10 | 10/28 | Project Midterm Presenetation | | Proj Midterm Report Due  |
-| 11 | 11/04 | Graph Adversarial Attacks and Defenses & Paper Presentation | |   |
-| 12 | 11/11 | Physical World Adversarial Machine Learning & Paper Presentation | |   |
-| 13 | 11/18 | Robustness In Distributed Learning/Self-Supervised Learning/Reinforcement Learning & Paper Presentation | |   |
+| 11 | 11/04 | Privacy Attacks for Machine Learning Models & Paper Presentation | |   |
+| 12 | 11/11 | Privacy Defenses for Machine Learning Models & Paper Presentation | |   |
+| 13 | 11/18 | Confidentiality of Machine Learning Models & Paper Presentation | |   |
 | 14 | 11/25 | No Class (Thanksgiving Holiday) | |   |
 | 15 | 12/02 | Final Project Presentation | | Paper Review Report Due  |
 | 16 | 12/09 | Final Project Presentation | | Final Project Report Due  |
