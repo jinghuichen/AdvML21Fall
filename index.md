@@ -52,7 +52,7 @@ Final grade cutoff:
 | 2 | 09/02 | Adversarial Attacks Against Machine Learning Models | | Reading Signup |
 | 3 | 09/09 | Defenses against Adversarial Attacks | |   |
 | 4 | 09/16 | Proposal Presentation | | Final Proj Proposal Due  |
-| 5 | 09/23 | Poisoning Attacks and Defenses & Paper Presentation | |   |
+| 5 | 09/23 | Poisoning Attacks and Defenses & Paper Presentation | [Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://dl.acm.org/doi/pdf/10.1145/3128572.3140451) <br> [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/pdf/1804.00792.pdf) <br> [MetaPoison: Practical General-purpose Clean-label Data Poisoning](https://arxiv.org/pdf/2004.00225.pdf) <br> [Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching](https://arxiv.org/pdf/2009.02276.pdf) |   |
 | 6 | 09/30 | Backdoor Attacks and Defenses & Paper Presentation | |   |
 | 7 | 10/07 | Graph/NLP Adversarial Attacks and Defenses & Paper Presentation | |   |
 | 8 | 10/14 | Robustness in Distributed/Self-Supervised/Reinforcement Learning & Paper Presentation | |   |
