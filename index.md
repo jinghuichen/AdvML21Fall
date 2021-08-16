@@ -95,8 +95,8 @@ Final grade cutoff:
 
 ## Late Submission Policy
 - All reports are due on Thursday at 11:59 pm (EST).
-- Students can submit late with the penalty of 25% deduction for every 12 hours late (up to 2 days).
-- After 2 days, no more late submission is allowed.
+- Students can submit late with the penalty of 25% deduction for every 24 hours late (up to 3 days).
+- After 3 days, no more late submission is allowed.
 - Extensions can be granted for special cases (email the instructor)
 
 
