@@ -104,20 +104,34 @@ Penn State University requires everyone to wear a face mask in all university bu
  
 
 
-## Academic Integrity Policy
-According to the Penn State Principles and University Code of Conduct: Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University’s Code of Conduct, you must not engage in or tolerate academic dishonesty. This includes, but is not limited to cheating, plagiarism, fabrication of information or citations, facilitating acts of academic dishonesty by others, unauthorized possession of examinations, submitting work of another person, or work previously used without informing the instructor, or tampering with the academic work of other students. Any violation of academic integrity will be investigated, and where warranted, punitive action will be taken. For every incident when a penalty of any kind is assessed, a report must be filed.
 
-Plagiarism (Cheating): Talking over your ideas and getting comments on your writing from friends are NOT examples of plagiarism. Taking someone else’s words (published or not) and calling them your own IS plagiarism. Plagiarism has dire consequences, including flunking the paper in question, flunking the course, and university disciplinary action, depending on the circumstances of the office. The simplest way to avoid plagiarism is to document the sources of your information carefully.
- 
-## Disability Access Statement
-Americans with Disabilities Act: The School of Information Sciences and Technology welcomes persons with disabilities to all of its classes, programs, and events. If you need accommodations or have questions about access to buildings where IST activities are held, please contact us in advance of your participation or visit. If you need assistance during a class, program, or event, please contact the member of our staff or faculty in charge. Access to IST courses should be arranged by contacting the Office of Human Resources, 332 IST Building: (814) 865-8949.
 
-Students with Disabilities: It is Penn State’s policy to not discriminate against qualified students with documented disabilities in its educational programs. (You may refer to the Nondiscrimination Policy in the Student Guide to University Policies and Rules.) If you have a disability-related need for reasonable academic adjustments in this course, contact the Office for Disability Services (ODS) at 814-863-1807 (V/TTY). For further information regarding ODS, please visit the Office for Disability Services Web site at http://equity.psu.edu/ods/.
+## ACADEMIC INTEGRITY STATEMENT
+Academic integrity is the pursuit of scholarly activity in an open, honest and responsible manner. Academic integrity is a basic guiding principle for all academic activity at The Pennsylvania State University, and all members of the University community are expected to act in accordance with this principle. Consistent with this expectation, the University’s Code of Conduct states that all students should act with personal integrity, respect other students’ dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts.
 
-In order to receive consideration for course accommodations, you must contact ODS and provide documentation (see documentation guidelines at http://equity.psu.edu/ods/guidelines/documentation-guidelines). If the documentation supports the need for academic adjustments, ODS will provide a letter identifying appropriate academic adjustments. Please share this letter and discuss the adjustments with your instructor as early in the course as possible. You must contact ODS and request academic adjustment letters at the beginning of each semester.
+Academic integrity includes a commitment by all members of the University community not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.
 
-## Statement on Nondiscrimination & Harassment (Policy AD42)
-The Pennsylvania State University is committed to the policy that all persons shall have equal access to programs, facilities, admission and employment without regard to personal characteristics not related to ability, performance, or qualifications as determined by University policy or by state or federal authorities. It is the policy of the University to maintain an academic and work environment free of discrimination, including harassment. The Pennsylvania State University prohibits discrimination and harassment against any person because of age, ancestry, color, disability or handicap, national origin, race, religious creed, sex, sexual orientation, gender identity or veteran status. Discrimination or harassment against faculty, staff or students will not be tolerated at The Pennsylvania State University. You may direct inquiries to the Office of Multicultural Affairs, 332 Information Sciences and Technology Building, University Park, PA 16802; Tel 814-865-0077 or to the Office of Affirmative Action, 328 Boucke Building, University Park, PA 16802-5901; Tel 814-865-4700/V, 814-863-1150/TTY.
+## DISABILITY ACCOMMODATION STATEMENT
+Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. Student Disability Resources (SDR) website provides contact information for every Penn State campus
+(http://equity.psu.edu/sdr/disability-coordinator). For further information, please visit Student Disability Resources website
+(http://equity.psu.edu/sdr/).
 
-For reference to the full policy (Policy AD42: Statement on Nondiscrimination and Harassment): http://guru.psu.edu/policies/AD42.html
+In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: See documentation guidelines
+(http://equity.psu.edu/sdr/guidelines). If the documentation supports your request for reasonable accommodations, your campus disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early as possible. You must follow this process for every semester that you request accommodations.
+
+## COUNSELING AND PSYCHOLOGICAL SERVICES STATEMENT
+Many students at Penn State face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional wellbeing. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
+
+Counseling and Psychological Services at University Park  (CAPS)
+(http://studentaffairs.psu.edu/counseling/): 814-863-0395
+
+Counseling and Psychological Services at Commonwealth Campuses
+(https://senate.psu.edu/faculty/counseling-services-at-commonwealth-campuses/)
+
+Penn State Crisis Line (24 hours/7 days/week): 877-229-6400
+Crisis Text Line (24 hours/7 days/week): Text LIONS to 741741
+
+## EDUCATIONAL EQUITY/REPORT BIAS STATEMENTS
+Consistent with University Policy AD29, students who believe they have experienced or observed a hate crime, an act of intolerance, discrimination, or harassment that occurs at Penn State are urged to report these incidents as outlined on the University’s Report Bias webpage
+(http://equity.psu.edu/reportbias/)
 
