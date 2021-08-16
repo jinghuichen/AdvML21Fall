@@ -17,7 +17,8 @@ This course requires knowledge of machine learning (DS 310 or equivalent), basic
 - Instructor: [Jinghui Chen](https://www.personal.psu.edu/jzc5917/) (Email: jzc5917 at psu dot edu)   
      
 - Office hours: 
-    - The instructor's office hour is Thursday after class. 
+    - Thursday after class if you have any immediate questions
+    - Friday 2-3pm on Zoom: [https://psu.zoom.us/j/91074315545](https://psu.zoom.us/j/91074315545)
      
 - Course Website: [https://jinghuichen.github.io/AdvML21Fall/](https://jinghuichen.github.io/AdvML21Fall/)
 - Canvas: [https://psu.instructure.com/courses/2150316](https://psu.instructure.com/courses/2150316)
