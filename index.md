@@ -8,13 +8,13 @@ This course is focused on helping students explore new research directions and a
  
 
 ## Prerequisites
-This course requires knowledge of machine learning (DS 310 or equivalent), basic linear algebra and programming principles.
+This course requires the knowledge of an undergrad level machine learning course, basic background on linear algebra and calculus.
 
 ## Logistics
 
 - Time: **Thursday 2:30PM - 5:30PM**
 - Location: **Westgate Bldg E210**  
-- Instructor: [Jinghui Chen](https://www.personal.psu.edu/jzc5917/) (Email: jzc5917 at psu dot edu)   
+- Instructor: [Jinghui Chen](https://jinghuichen.github.io/) (Email: jzc5917 at psu dot edu)   
      
 - Office hours: 
     - Thursday after class if you have any immediate questions
@@ -73,12 +73,12 @@ Final grade cutoff:
 
 
 ## Paper Presentation 
-- Each student will present 2-3 papers (based on the hardness of the paper) for a specific topic. Students need to sign up for the presentation before Week 2. 
+- Each student will present ~2 papers for a specific topic. Students need to sign up [here](https://docs.google.com/spreadsheets/d/1RQJymulSTuOhvlJkRKv9UDvLhodJvZX1TVDv_Belids/edit?usp=sharing) for the presentation before Week 2. 
 - Students are expected to prepare the slides by themselves, but the original authors’ slides are allowed to be used with proper citation.
 - The presentation quality will take 30% of your grade.
 
 ## Paper Reviews 
-- Each student will review 3 papers from the piles that other students presented (different from the papers you presented).  
+- Each student will review 2 papers from the piles that other students presented (different from the papers you presented).  
 - Each review should contain a basic introduction to the background, drawbacks of prior solutions (if any), proposed problem formulations/analysis and your understanding towards the advantages and disadvantages of the proposed method/analysis as well as the possible future directions.
 - The review quality will take 15% of your grade.
 
