@@ -60,11 +60,12 @@ Final grade cutoff:
 | 9 | 10/21 | Learnability Attacks in Deep Learning | ✔️|   |
 | 10 | 10/28 | Project Midterm Presenetation | | Proj Midterm Report Due  |
 | 11 | 11/04 | Privacy Attacks/Defenses  | ✔️|   |
-| 12 | 11/11 | Robustness on different domains (graph/distributed/self-supervised) | ✔️|   |
+| 12 | 11/11 | Robustness on Graph/Distributed/Self-supervised Learning | ✔️|   |
 | 13 | 11/18 | Fairness in machine learning  | ✔️ |   |
 | 14 | 11/25 | No Class (Thanksgiving Holiday) | |   |
 | 15 | 12/02 | Final Project Presentation | |   |
-| 16 | 12/09 | Final Project Presentation | | Paper Review Report Due <br> Final Project Report Due  |
+| 16 | 12/09 | Final Project Presentation | |  |
+| NA | 12/16 | NA  | | Paper Review Report Due <br> Final Project Report Due  |
 
 
  
