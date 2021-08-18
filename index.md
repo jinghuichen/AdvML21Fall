@@ -47,24 +47,24 @@ Final grade cutoff:
 ## Schedule
 
 
-| # | Date | Topics | Reading | Homework |
+| # | Date | Topics | Paper Presentation | Assignment Due |
 | - | ---- | ------ | ------- | -------- |
 | 1 | 08/26 | Course Introduction (Adversarial ML) | | |
-| 2 | 09/02 | Adversarial Attacks Against Machine Learning Models | | Reading Signup |
-| 3 | 09/09 | Defenses against Adversarial Attacks | |   |
+| 2 | 09/02 | Basic Adversarial Attacks in Deep Learning | | Reading SignUp Due|
+| 3 | 09/09 | Adversarial Attacks Under Different Settings | ✔️ |   |
 | 4 | 09/16 | Proposal Presentation | | Final Proj Proposal Due  |
-| 5 | 09/23 | Poisoning Attacks and Defenses & Paper Presentation | [Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://dl.acm.org/doi/pdf/10.1145/3128572.3140451) <br> [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/pdf/1804.00792.pdf) <br> [MetaPoison: Practical General-purpose Clean-label Data Poisoning](https://arxiv.org/pdf/2004.00225.pdf) <br> [Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching](https://arxiv.org/pdf/2009.02276.pdf) |   |
-| 6 | 09/30 | Backdoor Attacks and Defenses & Paper Presentation | |   |
-| 7 | 10/07 | Graph/NLP Adversarial Attacks and Defenses & Paper Presentation | |   |
-| 8 | 10/14 | Robustness in Distributed/Self-Supervised/Reinforcement Learning & Paper Presentation | |   |
-| 9 | 10/21 | Physical World Adversarial/Out-of-distribution Adversarial & Paper Presentation | |   |
+| 5 | 09/23 | Defenses Strategies for Adversarial Attacks  | ✔️ |   |
+| 6 | 09/30 | Understanding Adversarial Training & Certified Defenses  | ✔️ |   |
+| 7 | 10/07 | Poisoning Attacks in Deep Learning | ✔️ |   |
+| 8 | 10/14 | Backdoor Attacks and Defenses  | ✔️|   |
+| 9 | 10/21 | Learnability Attacks in Deep Learning | ✔️|   |
 | 10 | 10/28 | Project Midterm Presenetation | | Proj Midterm Report Due  |
-| 11 | 11/04 | Privacy Attacks for Machine Learning Models & Paper Presentation | |   |
-| 12 | 11/11 | Privacy Defenses for Machine Learning Models & Paper Presentation | |   |
-| 13 | 11/18 | Confidentiality of Machine Learning Models & Paper Presentation | |   |
+| 11 | 11/04 | Privacy Attacks/Defenses  | ✔️|   |
+| 12 | 11/11 | Robustness on different domains (graph/distributed/self-supervised) | ✔️|   |
+| 13 | 11/18 | Fairness in machine learning  | ✔️ |   |
 | 14 | 11/25 | No Class (Thanksgiving Holiday) | |   |
-| 15 | 12/02 | Final Project Presentation | | Paper Review Report Due  |
-| 16 | 12/09 | Final Project Presentation | | Final Project Report Due  |
+| 15 | 12/02 | Final Project Presentation | |   |
+| 16 | 12/09 | Final Project Presentation | | Paper Review Report Due <br> Final Project Report Due  |
 
 
  
@@ -73,7 +73,7 @@ Final grade cutoff:
 
 
 ## Paper Presentation 
-- Each student will present ~2 papers for a specific topic. Students need to sign up [here](https://docs.google.com/spreadsheets/d/1RQJymulSTuOhvlJkRKv9UDvLhodJvZX1TVDv_Belids/edit?usp=sharing) for the presentation before Week 2. 
+- Each student will present 2 papers for a specific topic. Students need to sign up [here](https://docs.google.com/spreadsheets/d/1RQJymulSTuOhvlJkRKv9UDvLhodJvZX1TVDv_Belids/edit?usp=sharing) for the presentation before Week 2. 
 - Students are expected to prepare the slides by themselves, but the original authors’ slides are allowed to be used with proper citation.
 - The presentation quality will take 30% of your grade.
 
