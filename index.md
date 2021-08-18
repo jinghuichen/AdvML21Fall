@@ -75,7 +75,8 @@ The instructor reserves the rights to make any changes.
 ## Paper Presentation 
 - Each student will present 2 papers for a specific topic. Students need to sign up [here](https://docs.google.com/spreadsheets/d/1RQJymulSTuOhvlJkRKv9UDvLhodJvZX1TVDv_Belids/edit?usp=sharing) for the presentation before Week 2. 
 - Students are expected to prepare the slides by themselves, but the original authors’ slides are allowed to be used with proper citation.
-- The presentation quality will take 30% of your grade.
+- Students need to upload the slides at least one day before the presentation.
+- The presentation quality will take 30% of your grade (contains 5% peer review).
 
 ## Paper Reviews 
 - Each student will review 2 papers from the piles that other students presented (different from the papers you presented).  
@@ -89,6 +90,7 @@ The instructor reserves the rights to make any changes.
     - Solving an interesting new real-world problem with adversarial machine learning 
     - Thorough theoretical analysis of existing approaches
 - The best outcome of the project is a manuscript that is publishable in major machine learning/AI/Security conferences (ICML, NeurIPS, ICLR, CVPR, KDD, ACL, CCS, etc.).
+- Incentives: outstanding projects that are publishable on top tier venues (determined by the instructor) can waive the paper reviews. Contact the instructor before the project final presentation if you feel qualified.
 - The final project quality will take 50% of your grade.
 - **Students cannot use their own published work as the course project.**
 
