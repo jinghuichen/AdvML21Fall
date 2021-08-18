@@ -51,7 +51,7 @@ Final grade cutoff:
 | - | ---- | ------ | ------- | -------- |
 | 1 | 08/26 | Course Introduction (Adversarial ML) | | |
 | 2 | 09/02 | Basic Adversarial Attacks in Deep Learning | | Reading SignUp Due|
-| 3 | 09/09 | Adversarial Attacks Under Different Settings | ✔️ |   |
+| 3 | 09/09 | Adversarial Attacks in Practical Settings | ✔️ |   |
 | 4 | 09/16 | Proposal Presentation | | Final Proj Proposal Due  |
 | 5 | 09/23 | Defenses Strategies for Adversarial Attacks  | ✔️ |   |
 | 6 | 09/30 | Understanding Adversarial Training & Certified Defenses  | ✔️ |   |
@@ -59,16 +59,15 @@ Final grade cutoff:
 | 8 | 10/14 | Backdoor Attacks and Defenses  | ✔️|   |
 | 9 | 10/21 | Learnability Attacks in Deep Learning | ✔️|   |
 | 10 | 10/28 | Project Midterm Presenetation | | Proj Midterm Report Due  |
-| 11 | 11/04 | Privacy Attacks/Defenses  | ✔️|   |
+| 11 | 11/04 | Privacy Attacks and Defenses  | ✔️|   |
 | 12 | 11/11 | Robustness on Graph/Distributed/Self-supervised Learning | ✔️|   |
-| 13 | 11/18 | Fairness in machine learning  | ✔️ |   |
+| 13 | 11/18 | Fairness in Machine Learning  | ✔️ |   |
 | 14 | 11/25 | No Class (Thanksgiving Holiday) | |   |
 | 15 | 12/02 | Final Project Presentation | |   |
 | 16 | 12/09 | Final Project Presentation | |  |
-| NA | 12/16 | NA  | | Paper Review Report Due <br> Final Project Report Due  |
+| NA | **12/13** | NA  | | Paper Review Report Due <br> Final Project Report Due  |
 
-
- 
+The instructor reserves the rights to make any changes.
  
  
 
