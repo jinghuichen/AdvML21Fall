@@ -59,8 +59,8 @@ Final grade cutoff:
 | 8 | 10/14 | Backdoor Attacks and Defenses  | ✔️|   |
 | 9 | 10/21 | Learnability Attacks in Deep Learning | ✔️|   |
 | 10 | 10/28 | Project Midterm Presenetation | | Proj Midterm Report Due  |
-| 11 | 11/04 | Privacy Attacks and Defenses  | ✔️|   |
-| 12 | 11/11 | Robustness on Graph/Distributed/Self-supervised Learning | ✔️|   |
+| 11 | 11/04 | Robustness on Graph/Distributed/Self-supervised Learning  | ✔️|   |
+| 12 | 11/11 | Privacy Attacks and Defenses | ✔️|   |
 | 13 | 11/18 | Fairness in Machine Learning  | ✔️ |   |
 | 14 | 11/25 | No Class (Thanksgiving Holiday) | |   |
 | 15 | 12/02 | Final Project Presentation | |   |
