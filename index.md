@@ -52,7 +52,7 @@ Final grade cutoff:
 | 1 | 08/26 | Course Introduction (Adversarial ML) | | |
 | 2 | 09/02 | Basic Adversarial Attacks in Deep Learning | | Reading SignUp Due|
 | 3 | 09/09 | Adversarial Attacks in Practical Settings | ✔️ |   |
-| 4 | 09/16 | Proposal Presentation | | Final Proj Proposal Due  |
+| 4 | 09/16 | Proposal Presentation ([SignUp](https://docs.google.com/spreadsheets/d/1EhL8VOqfccD_KU0EaLRtNuMSFaTERpJhIff7Dq7-LFs/edit?usp=sharing)) | | Final Proj Proposal Due  |
 | 5 | 09/23 | Defenses Strategies for Adversarial Attacks  | ✔️ |   |
 | 6 | 09/30 | Understanding Adversarial Training & Certified Defenses  | ✔️ |   |
 | 7 | 10/07 | Poisoning Attacks in Deep Learning | ✔️ |   |
