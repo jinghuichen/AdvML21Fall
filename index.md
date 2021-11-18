@@ -1,5 +1,7 @@
 # IST 597: Adversarial Machine Learning 
 
+guest lecture zoom link: https://ucla.zoom.us/j/92552011754?pwd=S2VyQ2wxSGdtTit4Mjdkdlo2bFI2QT09 
+
 ## Overview
 
 Machine learning techniques are prevalent in solving real-world problems, however, they are also found to be vulnerable to malicious adversaries. This has raised serious security concerns and trustworthy issues in the current machine learning systems. In this course, students will learn about understanding the risks posed by adversaries to the current machine learning systems, as well as designing more advanced defense techniques to mitigate those risks. 
