@@ -1,6 +1,5 @@
 # IST 597: Adversarial Machine Learning 
 
-guest lecture zoom link: https://ucla.zoom.us/j/92552011754?pwd=S2VyQ2wxSGdtTit4Mjdkdlo2bFI2QT09 
 
 ## Overview
 
